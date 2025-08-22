@@ -1,0 +1,6 @@
+base64
+numpy
+scipy
+plotly
+matplotlib
+soundfile
