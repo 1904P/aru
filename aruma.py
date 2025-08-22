@@ -1,7 +1,4 @@
 # end? 2.0
-!pip install ffmpeg-python
-!pip -q install librosa soundfile plotly
-
 from IPython.display import HTML, Audio, display
 from google.colab.output import eval_js
 from base64 import b64decode
